@@ -1,0 +1,10 @@
+10
+hello
+25 abc
+5
+java 30
+15 test
+xyz
+40
+7 hello
+3
