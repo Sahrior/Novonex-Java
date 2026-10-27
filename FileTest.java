@@ -156,6 +156,7 @@ public class FileTest {
         reader.close();
 
         System.out.println("Sum: " + sum);
+        System.out.println("hellp world");
 
 
 
